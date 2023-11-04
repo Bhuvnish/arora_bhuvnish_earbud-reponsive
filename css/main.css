@@ -52,10 +52,30 @@
  }
 
 
+ .x-ray{
+  background-color: black;
+  height: 350px;
+ }
+
+ .x-ray h3{
+  color: #efefef;
+  text-align: center;
+ }
   
   
 
- 
+ .footer{
+  margin-top: 30px;
+  background-color: black;
+  height: 350px;
+ }
+
+ .footer h3{
+  color: #efefef;
+  text-align: center;
+ }
+  
+  
 
  
  
