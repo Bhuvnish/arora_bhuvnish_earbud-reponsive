@@ -83,7 +83,10 @@
  
 
  
-
+#main-nav {
+  background-color: black;
+  margin-bottom: 30px;
+}
  
  
 
@@ -93,6 +96,7 @@
    text-align: center;
  
    text-decoration: none;
+   
   
   
 
@@ -110,35 +114,7 @@
 
  } 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#main-nav button {
+ #main-nav button {
   width: 20px;
   height: 20px;
   background: url(../images/burger.svg) no-repeat center;
@@ -234,14 +210,23 @@
      margin-right: 0;
   }
 
-  .junish  {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20vh; }
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
