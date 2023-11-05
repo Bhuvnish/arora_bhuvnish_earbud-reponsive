@@ -8,6 +8,13 @@
 .black {
   background-color: black;
 }
+#logo {
+  background-color: black;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  height: 60px;
+}
+
  
 #arview{
   background-color: #626262;
@@ -28,6 +35,11 @@
   color: white;
 }
 
+#content-2 h2 {
+  text-align: center;
+  color: white;
+}
+
 #products {
   background-color: black;
 }
@@ -44,7 +56,21 @@
 
 
 
- #products {
+ #product1 {
+  background-color: #626262;
+  height: 300px;
+  margin-top: 30px;
+
+ }
+
+ #product2 {
+  background-color: #626262;
+  height: 300px;
+  margin-top: 30px;
+
+ }
+
+ #product3 {
   background-color: #626262;
   height: 300px;
   margin-top: 30px;
@@ -210,9 +236,17 @@
      margin-right: 0;
   }
 
-
+  #logo {
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    height: 60px;
+    align-items: center;
+  }
 
 }
+
+
 
 
 
